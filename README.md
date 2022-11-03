@@ -1,4 +1,4 @@
-# Application UI Pantai Menganti
+# Application UI Pantai Marina
 
 Copy paste code main.dart on the folder lib
 
