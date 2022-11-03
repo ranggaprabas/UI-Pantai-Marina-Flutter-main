@@ -1,0 +1,4 @@
+#Thu Nov 03 07:55:55 ICT 2022
+base.0=C\:\\Users\\ACER\\Downloads\\UI-Pantai-Menganti-Flutter-main\\UI-Pantai-Menganti-Flutter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
